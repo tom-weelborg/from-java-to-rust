@@ -7,3 +7,9 @@ dist
 components.d.ts
 
 .direnv
+
+snippets/**
+!snippets/**/
+!snippets/**/*.java
+!snippets/**/*.rs
+!snippets/**/*.sh

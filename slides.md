@@ -13,3 +13,7 @@ defaults:
   layout: two-cols-header
 src: ./pages/title.md
 ---
+
+---
+src: ./pages/hello-world.md
+---
