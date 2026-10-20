@@ -17,3 +17,8 @@ src: ./pages/title.md
 ---
 src: ./pages/hello-world.md
 ---
+
+---
+src: ./pages/primitive-types.md
+magicMoveCopy: false
+---
