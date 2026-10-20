@@ -8,6 +8,9 @@ drawings:
   persist: false
 transition: view-transition
 comark: true
+layout: cover
+defaults:
+  layout: two-cols-header
 ---
 
 # From Java to Rust
