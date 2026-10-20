@@ -11,6 +11,5 @@ comark: true
 layout: cover
 defaults:
   layout: two-cols-header
+src: ./pages/title.md
 ---
-
-# From Java to Rust
