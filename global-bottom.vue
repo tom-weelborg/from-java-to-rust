@@ -9,7 +9,7 @@
         </div>
 
         <div class="w-1/4 text-right">
-            {{ $nav.currentPage }}
+            <SlideCurrentNo />
         </div>
     </footer>
 </template>
