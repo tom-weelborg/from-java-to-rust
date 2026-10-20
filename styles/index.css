@@ -1,3 +1,8 @@
+:root {
+    --slidev-code-font-size: 8px !important;
+    --slidev-code-line-height: 10px !important;
+}
+
 a:has(img) {
     border-style: none !important;
 }
