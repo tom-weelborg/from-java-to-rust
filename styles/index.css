@@ -6,3 +6,7 @@
 a:has(img) {
     border-style: none !important;
 }
+
+.two-cols-header {
+    column-gap: 10px;
+}
