@@ -6,7 +6,7 @@ author: Tom Weelborg
 class: text-center
 drawings:
   persist: false
-transition: slide-left
+transition: view-transition
 comark: true
 ---
 
