@@ -2,12 +2,18 @@
 
 <div class="w-full flex justify-between">
 
-  <a href="https://wiki.openjdk.org/spaces/duke/pages/51282071/Gallery" target="_blank">
-    <img src="/images/duke.png" alt="Duke, the Java mascot" class="w-40">
-  </a>
+  <Image
+    imageUrl="/images/duke.png"
+    imageAlt="Duke, the Java mascot"
+    imageClass="w-40"
+    sourceUrl="https://wiki.openjdk.org/spaces/duke/pages/51282071/Gallery"
+    />
 
-  <a href="https://github.com/rust-lang/rust-artwork/blob/main/mascot/ferris-flat-happy.svg" target="_blank">
-    <img src="/images/ferris.svg" alt="Ferris, the Rust mascot" class="w-80">
-  </a>
+  <Image
+    imageUrl="/images/ferris.svg"
+    imageAlt="Ferris, the Rust mascot"
+    imageClass="w-80"
+    sourceUrl="https://github.com/rust-lang/rust-artwork/blob/main/mascot/ferris-flat-happy.svg"
+    />
 
 </div>
