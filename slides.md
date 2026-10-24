@@ -40,6 +40,10 @@ src: ./pages/control.md
 ---
 
 ---
+src: ./pages/mutability.md
+---
+
+---
 src: ./pages/hello-world.md
 ---
 
