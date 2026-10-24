@@ -36,6 +36,10 @@ src: ./pages/why-rust.md
 ---
 
 ---
+src: ./pages/control.md
+---
+
+---
 src: ./pages/hello-world.md
 ---
 
