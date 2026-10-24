@@ -19,6 +19,10 @@ src: ./pages/core-facts.md
 ---
 
 ---
+src: ./pages/stack-vs-heap.md
+---
+
+---
 src: ./pages/why-not-c.md
 layout: default
 ---
