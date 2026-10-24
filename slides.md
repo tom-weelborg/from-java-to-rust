@@ -20,6 +20,10 @@ layout: default
 ---
 
 ---
+src: ./pages/why-rust.md
+---
+
+---
 src: ./pages/hello-world.md
 ---
 

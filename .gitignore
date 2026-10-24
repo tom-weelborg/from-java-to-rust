@@ -10,6 +10,7 @@ components.d.ts
 
 snippets/**
 !snippets/**/
+!snippets/**/*.c
 !snippets/**/*.java
 !snippets/**/*.rs
 !snippets/**/*.sh
