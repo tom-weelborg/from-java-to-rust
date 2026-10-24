@@ -15,6 +15,10 @@ src: ./pages/title.md
 ---
 
 ---
+src: ./pages/core-facts.md
+---
+
+---
 src: ./pages/why-not-c.md
 layout: default
 ---
