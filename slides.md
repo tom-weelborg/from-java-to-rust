@@ -23,6 +23,10 @@ src: ./pages/stack-vs-heap.md
 ---
 
 ---
+src: ./pages/memory-management.md
+---
+
+---
 src: ./pages/why-not-c.md
 layout: default
 ---
