@@ -15,6 +15,11 @@ src: ./pages/title.md
 ---
 
 ---
+src: ./pages/why-not-c.md
+layout: default
+---
+
+---
 src: ./pages/hello-world.md
 ---
 
