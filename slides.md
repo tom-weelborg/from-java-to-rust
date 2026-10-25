@@ -63,3 +63,7 @@ src: ./pages/arrays.md
 ---
 src: ./pages/complex-types.md
 ---
+
+---
+src: ./pages/access-modifiers.md
+---
