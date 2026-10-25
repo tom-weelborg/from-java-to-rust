@@ -15,6 +15,7 @@ class A {
 
 
 
+
         this.i = i;
 
     }

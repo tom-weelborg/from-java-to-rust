@@ -7,7 +7,7 @@
 <div class="flex gap-2">
 
   ````md magic-move {at:1}
-  <<< @/snippets/complex-types/java/ComplexTypes.java#complex-type {*|1|2|6-10|12-19|21-22|24-26|28-30}
+  <<< @/snippets/complex-types/java/ComplexTypes.java#complex-type {*|1|2|6-10|12-20|22-23|25-27|29-31}
   ````
 
   <v-click at="8">
@@ -35,7 +35,7 @@
 <div class="flex gap-2">
 
   ````md magic-move {at:1}
-  <<< @/snippets/complex-types/rust/complex_types.rs#complex-type {*|1,5|2|6-10|12-19|21-22|24-26|28-30}
+  <<< @/snippets/complex-types/rust/complex_types.rs#complex-type {*|1,5|2|6-10|12-20|22-23|25-27|29-31}
   ````
 
   <v-click at="8">

@@ -12,6 +12,7 @@ impl A {
 
     // "constructor" is just an associated function
     pub fn new(i: i32) -> Self {
+        // This actually initializes the struct.
         Self {
             // like in JavaScript,
             // this is short for `i: i`
