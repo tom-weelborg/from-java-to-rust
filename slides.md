@@ -44,6 +44,10 @@ src: ./pages/mutability.md
 ---
 
 ---
+src: ./pages/naming-conventions.md
+---
+
+---
 src: ./pages/hello-world.md
 ---
 
