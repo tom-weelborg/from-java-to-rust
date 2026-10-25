@@ -79,3 +79,7 @@ src: ./pages/generics.md
 ---
 src: ./pages/inheritance.md
 ---
+
+---
+src: ./pages/enums.md
+---

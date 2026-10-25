@@ -14,3 +14,4 @@ snippets/**
 !snippets/**/*.java
 !snippets/**/*.rs
 !snippets/**/*.sh
+!snippets/**/*.ts
