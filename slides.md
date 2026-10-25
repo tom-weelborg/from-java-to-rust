@@ -75,3 +75,7 @@ src: ./pages/string.md
 ---
 src: ./pages/generics.md
 ---
+
+---
+src: ./pages/inheritance.md
+---
