@@ -10,9 +10,9 @@
   <<< @/snippets/complex-types/java/ComplexTypes.java#complex-type {*|1|2|6-10|12-19|21-22|24-26|28-30}
   ````
 
-  <v-click at="7">
+  <v-click at="8">
 
-  ````md magic-move {at:8}
+  ````md magic-move {at:9}
   <<< @/snippets/complex-types/java/ComplexTypes.java#static
 
   <<< @/snippets/complex-types/java/ComplexTypes.java#variable
@@ -38,9 +38,9 @@
   <<< @/snippets/complex-types/rust/complex_types.rs#complex-type {*|1,5|2|6-10|12-19|21-22|24-26|28-30}
   ````
 
-  <v-click at="7">
+  <v-click at="8">
 
-  ````md magic-move {at:8}
+  ````md magic-move {at:9}
   <<< @/snippets/complex-types/rust/complex_types.rs#static
 
   <<< @/snippets/complex-types/rust/complex_types.rs#variable
