@@ -7,17 +7,17 @@
 ````md magic-move {at:1}
 <<< @/snippets/arrays/java/Arrays.java#declaration {*|1|2-8|9}
 
-<<< @/snippets/arrays/java/Arrays.java#read
+<<< @/snippets/arrays/java/Arrays.java#read {*|11|11-13}
 
-<<< @/snippets/arrays/java/Arrays.java#invalid-read
+<<< @/snippets/arrays/java/Arrays.java#invalid-read {*|15-18}
 
 <<< @/snippets/arrays/java/Arrays.java#reference
 
-<<< @/snippets/arrays/java/Arrays.java#range
+<<< @/snippets/arrays/java/Arrays.java#range {*|22}
 
-<<< @/snippets/arrays/java/Arrays.java#range-read-error
+<<< @/snippets/arrays/java/Arrays.java#range-read-error {*|25-28}
 
-<<< @/snippets/arrays/java/Arrays.java#range-read-success
+<<< @/snippets/arrays/java/Arrays.java#range-read-success {*|30}
 ````
 
 ::right::
@@ -27,15 +27,15 @@
 ````md magic-move {at:1}
 <<< @/snippets/arrays/rust/arrays.rs#declaration {*|1|2-8|9}
 
-<<< @/snippets/arrays/rust/arrays.rs#read
+<<< @/snippets/arrays/rust/arrays.rs#read {*|11|11-13}
 
-<<< @/snippets/arrays/rust/arrays.rs#invalid-read
+<<< @/snippets/arrays/rust/arrays.rs#invalid-read {*|15-18}
 
 <<< @/snippets/arrays/rust/arrays.rs#reference
 
-<<< @/snippets/arrays/rust/arrays.rs#range
+<<< @/snippets/arrays/rust/arrays.rs#range {*|22}
 
-<<< @/snippets/arrays/rust/arrays.rs#range-read-error
+<<< @/snippets/arrays/rust/arrays.rs#range-read-error {*|25-28}
 
-<<< @/snippets/arrays/rust/arrays.rs#range-read-success
+<<< @/snippets/arrays/rust/arrays.rs#range-read-success {*|30}
 ````
