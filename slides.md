@@ -67,3 +67,7 @@ src: ./pages/complex-types.md
 ---
 src: ./pages/access-modifiers.md
 ---
+
+---
+src: ./pages/string.md
+---
