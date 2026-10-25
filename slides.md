@@ -59,3 +59,7 @@ src: ./pages/primitive-types.md
 ---
 src: ./pages/arrays.md
 ---
+
+---
+src: ./pages/complex-types.md
+---

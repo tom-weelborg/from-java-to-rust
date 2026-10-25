@@ -1,0 +1,57 @@
+# Complex Types
+
+::left::
+
+## [Java]{style="color:#ED8B00"}
+
+<div class="flex gap-2">
+
+  ````md magic-move {at:1}
+  <<< @/snippets/complex-types/java/ComplexTypes.java#complex-type {*|1|2|6-10|12-19|21-22|24-26|28-30}
+  ````
+
+  <v-click at="7">
+
+  ````md magic-move {at:8}
+  <<< @/snippets/complex-types/java/ComplexTypes.java#static
+
+  <<< @/snippets/complex-types/java/ComplexTypes.java#variable
+
+  <<< @/snippets/complex-types/java/ComplexTypes.java#variable-getter
+
+  <<< @/snippets/complex-types/java/ComplexTypes.java#variable-getter-static
+
+  <<< @/snippets/complex-types/java/ComplexTypes.java#variable-getter-static-destruction
+  ````
+
+  </v-click>
+
+</div>
+
+::right::
+
+## [Rust]{style="color:#D34516"}
+
+<div class="flex gap-2">
+
+  ````md magic-move {at:1}
+  <<< @/snippets/complex-types/rust/complex_types.rs#complex-type {*|1,5|2|6-10|12-19|21-22|24-26|28-30}
+  ````
+
+  <v-click at="7">
+
+  ````md magic-move {at:8}
+  <<< @/snippets/complex-types/rust/complex_types.rs#static
+
+  <<< @/snippets/complex-types/rust/complex_types.rs#variable
+
+  <<< @/snippets/complex-types/rust/complex_types.rs#variable-getter
+
+  <<< @/snippets/complex-types/rust/complex_types.rs#variable-getter-static
+
+  <<< @/snippets/complex-types/rust/complex_types.rs#variable-getter-static-destruction
+  ````
+
+  </v-click>
+
+</div>
