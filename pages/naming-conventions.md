@@ -10,6 +10,7 @@
 - types (classes, interfaces, records, enums): `PascalCase`
   - enum values: `SCREAMING_SNAKE_CASE`
 - constants: `SCREAMING_SNAKE_CASE`
+- packages: `snake_case` (or sometimes `flatcase`)
 
 </v-clicks>
 
@@ -23,6 +24,7 @@
 - types (structs, traits, type aliases, enums): `PascalCase`
   - enum values: `PascalCase`
 - constants: `SCREAMING_SNAKE_CASE`
+- modules and crates: `snake_case`
 - unused values: prefixed with `_`
 
 </v-clicks>
