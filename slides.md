@@ -71,3 +71,7 @@ src: ./pages/access-modifiers.md
 ---
 src: ./pages/string.md
 ---
+
+---
+src: ./pages/generics.md
+---
