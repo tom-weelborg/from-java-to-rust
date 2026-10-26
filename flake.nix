@@ -17,6 +17,9 @@
           nodejs_24
           pnpm_12
 
+          # C
+          gcc
+
           # Java
           jdk25
           maven3
