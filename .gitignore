@@ -15,3 +15,5 @@ snippets/**
 !snippets/**/*.rs
 !snippets/**/*.sh
 !snippets/**/*.ts
+!snippets/web-app/**
+snippets/web-app/**/target/**

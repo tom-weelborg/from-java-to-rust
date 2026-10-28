@@ -1,0 +1,7 @@
+POST http://localhost:8080/blog-post
+content-type: application/json
+
+{
+    "title": "My first blog post",
+    "content": "This text contains an error."
+}
