@@ -29,6 +29,13 @@ mod alias_bad {
     // #endregion alias-bad
 }
 
+mod alias_still_bad {
+    // #region alias-still-bad
+    // This is better, but still bad:
+    pub struct I32Vec(Vec<i32>);
+    // #endregion alias-still-bad
+}
+
 mod alias_good {
     // #region alias-good
     // Use this instead:

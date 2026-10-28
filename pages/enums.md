@@ -9,7 +9,7 @@
         Java
       </span>
     </template>
-    <template #4-7>
+    <template #4-8>
       <span style="color:#3178C6">
         TypeScript
       </span>
@@ -31,6 +31,8 @@
 <<< @/snippets/enums/java/Enums.java#result-types
 
 <<< @/snippets/enums/typescript/typeUnion.ts#union
+
+<<< @/snippets/enums/typescript/typeUnion.ts#alias
 
 <<< @/snippets/enums/typescript/typeUnion.ts#alias
 
@@ -75,6 +77,8 @@
 <<< @/snippets/enums/rust/type_union.rs#union
 
 <<< @/snippets/enums/rust/type_union.rs#alias-bad
+
+<<< @/snippets/enums/rust/type_union.rs#alias-still-bad
 
 <<< @/snippets/enums/rust/type_union.rs#alias-good
 ````
