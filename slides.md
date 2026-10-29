@@ -89,6 +89,10 @@ src: ./pages/null.md
 ---
 
 ---
+src: ./pages/error-handling.md
+---
+
+---
 src: ./pages/lambdas-vs-closures.md
 ---
 
