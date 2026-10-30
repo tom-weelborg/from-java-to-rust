@@ -45,6 +45,10 @@ src: ./pages/mutability.md
 ---
 
 ---
+src: ./pages/shadowing.md
+---
+
+---
 src: ./pages/naming-conventions.md
 ---
 
