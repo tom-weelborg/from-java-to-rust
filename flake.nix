@@ -10,7 +10,7 @@
     forAllSystems = f: builtins.mapAttrs f inputs.nixpkgs.legacyPackages;
   in
   {
-    packages = forAllSystems (system: pkgs: {
+    devShells = forAllSystems (system: pkgs: {
       default = pkgs.mkShell {
         packages = with pkgs; [
           # NodeJS
