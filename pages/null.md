@@ -11,7 +11,7 @@
 
 <<< @/snippets/null/java/Nullability.java#optional
 
-<<< @/snippets/null/java/Nullability.java#never {*|26}
+<<< @/snippets/null/java/Nullability.java#never {*|1,5,23|26}
 ````
 
 ::right::
@@ -25,5 +25,5 @@
 
 <<< @/snippets/null/rust/nullability.rs#option
 
-<<< @/snippets/null/rust/nullability.rs#never{*|26}
+<<< @/snippets/null/rust/nullability.rs#never{*|1,5,23|26}
 ````
