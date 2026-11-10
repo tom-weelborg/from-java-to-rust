@@ -109,6 +109,10 @@ src: ./pages/threading.md
 ---
 
 ---
+src: ./pages/annotations-vs-attributes.md
+---
+
+---
 src: ./pages/build-tools.md
 ---
 

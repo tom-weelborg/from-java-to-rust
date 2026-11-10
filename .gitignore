@@ -15,5 +15,7 @@ snippets/**
 !snippets/**/*.rs
 !snippets/**/*.sh
 !snippets/**/*.ts
+!snippets/annotations-vs-attributes/**
+snippets/annotations-vs-attributes/**/target/**
 !snippets/web-app/**
 snippets/web-app/**/target/**
