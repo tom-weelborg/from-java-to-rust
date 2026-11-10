@@ -5,7 +5,7 @@
 ## [Java]{style="color:#ED8B00"}
 
 ````md magic-move {at:1}
-<<< @/snippets/access-modifiers/java/AccessModifiers.java#content {*|4-7|*|9-12|14-17|19-22|*}
+<<< @/snippets/access-modifiers/java/AccessModifiers.java#content {*|4-7|none|9-12|14-17|19-22|none}
 ````
 
 ::right::
