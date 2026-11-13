@@ -170,10 +170,15 @@ pub mod copy {
             a: 42,
 
         };
-        let e2 = e1; // Implicit copy
+        let mut e2 = e1; // Implicit copy
 
-        println!("{}", e1.a); // `e1` is still valid.
-        println!("{}", e2.a);
+        // `e1` is still valid.
+        println!("{}", e1.a); // prints: 42
+        println!("{}", e2.a); // prints: 42
+
+        e2.a = 10;
+        println!("{}", e1.a); // prints: 42
+        println!("{}", e2.a); // prints: 10
     }
     // #endregion copy
 }
@@ -199,10 +204,15 @@ pub mod clone {
             a: 42,
             b: "Test".to_string()
         };
-        let e2 = e1.clone(); // explicit clone
+        let mut e2 = e1.clone(); // explicit clone
 
-        println!("{}", e1.a); // `e1` is still valid.
-        println!("{}", e2.a);
+        // `e1` is still valid.
+        println!("{}", e1.a); // prints: 42
+        println!("{}", e2.a); // prints: 42
+
+        e2.a = 10;
+        println!("{}", e1.a); // prints: 42
+        println!("{}", e2.a); // prints: 10
     }
     // #endregion clone
 }

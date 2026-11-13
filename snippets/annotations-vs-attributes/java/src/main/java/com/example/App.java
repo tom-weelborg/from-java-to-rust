@@ -15,6 +15,7 @@ public class App {
 
         Stringify.stringify();
 
+        Copy.main(args);
         Clone.main(args);
     }
 
@@ -149,6 +150,34 @@ public class App {
     public static class Copy {
         // #region copy
         // no equivalent in Java
+        public static class Example {
+            int a;
+            String b;
+
+
+
+
+
+
+
+
+        }
+
+        public static void main(String[] args) {
+            Example e1 = new Example();
+            e1.a = 42;
+            e1.b = "Hello";
+
+            Example e2 = e1;
+
+
+            System.out.println(e1.a); // prints: 42
+            System.out.println(e2.a); // prints: 42
+            
+            e2.a = 10;
+            System.out.println(e1.a); // prints: 10
+            System.out.println(e2.a); // prints: 10
+        }
         // #endregion copy
     }
 
@@ -175,8 +204,13 @@ public class App {
 
             Example e2 = e1.clone();
 
-            System.out.println(e1.a);
-            System.out.println(e2.a);
+
+            System.out.println(e1.a); // prints: 42
+            System.out.println(e2.a); // prints: 42
+            
+            e2.a = 10;
+            System.out.println(e1.a); // prints: 42
+            System.out.println(e2.a); // prints: 10
         }
         // #endregion clone
     }

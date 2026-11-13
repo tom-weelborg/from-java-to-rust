@@ -15,9 +15,9 @@
 
 <<< @/snippets/annotations-vs-attributes/java/src/main/java/com/example/App.java#stringify{*|2,22}
 
-<<< @/snippets/annotations-vs-attributes/java/src/main/java/com/example/App.java#copy{*|none|none}
+<<< @/snippets/annotations-vs-attributes/java/src/main/java/com/example/App.java#copy{*|none|20-24|26-28}
 
-<<< @/snippets/annotations-vs-attributes/java/src/main/java/com/example/App.java#clone{*|6-12,20|20-23}
+<<< @/snippets/annotations-vs-attributes/java/src/main/java/com/example/App.java#clone{*|6-12,20|20-24|26-28}
 ````
 
 <div v-click="['4', '6']">
@@ -50,9 +50,9 @@
 
 <<< @/snippets/annotations-vs-attributes/rust/src/main.rs#stringify{*|1-2,8,10,22-24}
 
-<<< @/snippets/annotations-vs-attributes/rust/src/main.rs#copy{*|1,20|20-23}
+<<< @/snippets/annotations-vs-attributes/rust/src/main.rs#copy{*|1,20|20-24|26-28}
 
-<<< @/snippets/annotations-vs-attributes/rust/src/main.rs#clone{*|1,20|20-23}
+<<< @/snippets/annotations-vs-attributes/rust/src/main.rs#clone{*|1,20|20-24|26-28}
 ````
 
 <div v-click="['4', '6']">
